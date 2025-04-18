@@ -1,4 +1,4 @@
 This project use in language:-
-HTML
-CSS
-Python
+HTML,
+CSS,
+Python.
