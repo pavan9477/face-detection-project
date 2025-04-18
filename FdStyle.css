@@ -1,0 +1,53 @@
+header{
+    text-align: center;
+    font-family:algerian;
+   background-color: rgb(51, 54, 54);
+    font-size: 50px;
+    height: 67px;
+  width: 1209px;
+  padding-left: 13.5%;
+    border: 50px;
+    color: rgb(255, 255, 255);
+} 
+
+footer{
+    
+    font-size: 18px;
+    margin-top: 15%;
+  margin-left: 45%;
+  color: white;
+   
+   
+}
+
+body{
+    background-image: url("https://firebase.google.com/static/docs/ml-kit/images/face_detection@2x.png");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+main{
+    font-size: 50px;
+    height: 50px;
+    width: 500px; 
+    padding-left: 35%;
+    border: 50px;
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 20%;
+}
+
+button{
+    font-size: 38px;
+    height: 50px;
+    width: 500px; 
+    background-color: rgb(255, 34, 0);
+    color: rgb(255, 255, 255);
+  
+}
+
+a{
+    text-decoration: none;
+}
+/*https://chat.openai.com/share/4f04fd74-85be-485b-8f59-dbb3200d25e6*/
